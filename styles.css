@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+
+body {
+    background-color: gold;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    border: 2px solid blue;
+}
+
+h2 {
+    color: blue;
+}
+.like{
+    display:flex;
+    justify-content:center;}
